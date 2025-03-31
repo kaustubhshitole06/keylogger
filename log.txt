@@ -2,3 +2,8 @@ main.py
 \x16hi
 git init
 git add .
+git status
+,g.gitignore
+log.txt\x13git commit -m Key.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift"commitKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift"
+git status
+giit add .
